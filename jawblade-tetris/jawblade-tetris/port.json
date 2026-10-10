@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "name": "Jawblade Tetris.zip",
+  "items": [
+    "Jawblade Tetris.sh",
+    "jawblade-tetris/"
+  ],
+  "items_opt": null,
+  "attr": {
+    "title": "Jawblade Tetris",
+    "desc": "A rainbow-shifting retro falling-block puzzle game.",
+    "inst": "Ready to run. Requires the PortMaster love_11.5 runtime.",
+    "genres": ["puzzle"],
+    "porter": ["Jawblade"],
+    "image": {},
+    "rtr": true,
+    "runtime": null,
+    "reqs": [],
+    "arch": ["aarch64", "armhf"]
+  }
+}

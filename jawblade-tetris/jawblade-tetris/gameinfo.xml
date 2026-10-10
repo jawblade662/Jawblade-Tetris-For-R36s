@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./Jawblade Tetris.sh</path>
+    <name>Jawblade Tetris</name>
+    <desc>A rainbow-shifting retro falling-block puzzle game.</desc>
+    <releasedate>20261010T000000</releasedate>
+    <developer>Jawblade</developer>
+    <publisher>Jawblade</publisher>
+    <genre>Puzzle</genre>
+    <players>1</players>
+    <lang>en</lang>
+    <image>./jawblade-tetris/screenshot.png</image>
+  </game>
+</gameList>
